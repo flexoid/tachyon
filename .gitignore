@@ -1,0 +1,55 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*~
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+tags
+.DS_Store
+*.debug
+Makefile*
+*.prl
+*.class
+*.app
+moc_*.cpp
+moc_*.cxx
+ui_*.h
+qrc_*.cpp
+qrc_*.cxx
+Thumbs.db
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Directories to ignore
+# ---------------------
+
+WEB-INF/classes
+qtcreator-build
+bin
+debug
+lib/*
+lib64/*
+release
+doc/html/*
+doc/api/html/*
+doc/pluginhowto/html/*
+.rcc
+.pch
+
