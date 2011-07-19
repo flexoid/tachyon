@@ -31,6 +31,14 @@ qrc_*.cpp
 qrc_*.cxx
 Thumbs.db
 
+*.log
+.settings
+.project
+.classpath
+target
+*.cmd
+*.bat
+
 # xemacs temporary files
 *.flc
 
