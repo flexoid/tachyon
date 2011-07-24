@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/tachyon-0.1-SNAPSHOT">
+    <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" 
+                maxActive="100" maxIdle="30" maxWait="10000"
+                name="jdbc/tachyonDB" type="javax.sql.DataSource"
+                url="jdbc:mysql://localhost:3306/tachyon"
+                username="tachyon" password="tachyon" />
+</Context>
