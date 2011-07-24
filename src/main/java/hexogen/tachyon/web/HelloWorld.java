@@ -1,4 +1,4 @@
-package hexogen.tachyon;
+package hexogen.tachyon.web;
 
 import java.io.IOException;
 import java.io.PrintWriter;
